@@ -4,7 +4,7 @@
 
 
 
-## Download
+## Download - CPU only
 
 | Platform | Architecture | File |
 |----------|--------------|------|
